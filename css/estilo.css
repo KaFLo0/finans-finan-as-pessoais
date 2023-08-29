@@ -1,0 +1,25 @@
+@media screen and (max-width: 767px) {
+    .ml-4 {
+        margin: 0 !important;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .justify-content-end {
+        justify-content: center !important;
+    }
+}
+
+#home {
+	background: #ffc107;
+	color: white;
+}
+
+.caixa {
+	padding: 60px 0;
+	border-bottom: 1px solid #e2e2e2;
+}
+
+footer p a {
+	margin: 5px 15px;
+}
