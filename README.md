@@ -1,6 +1,6 @@
 # 💰 Finans Finanças Pessoais 💰
 ### ✨ Introdução
-Esse projeto NÃO foi idealizado por mim, por mais que eu tenha feito sozinho e melhorado certas partes (explicarei as melhorias posteriormente), esse projeto faz parte da grade do curso [Desenvolvimento Web Completo - 20 cursos + 20 projetos](https://www.udemy.com/course/web-completo/).
+Esse projeto NÃO foi idealizado por mim, por mais que eu tenha feito sozinho,revisando como ficou o projeto apresentado nas aulas e melhorando certas partes (explicarei as melhorias posteriormente), esse projeto faz parte da grade do curso [Desenvolvimento Web Completo - 20 cursos + 20 projetos](https://www.udemy.com/course/web-completo/).
 ### 📜 Descrição
 Esse é o meu primeiro projeto usando o BootStrap, utilizei de conceitos como "mobile-first", "layout responsivo" e "media-queries" para praticar tudo o que eu aprendi e resolver problemas de layout em diferentes tipos de tela.<br>
 Fiz uso de menus "hamburguer", layouts adaptativos para cada tamanho de tela: small devices, medium devices, large devices e extra large devices.<br>
