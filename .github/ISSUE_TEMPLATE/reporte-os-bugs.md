@@ -1,5 +1,5 @@
 ---
-name: Reporte de bugs
+name: Reporte os bugs!
 about: Me ajude a identificar o bug para que eu possa resolve-lo
 title: Reporte bugs aqui
 labels: bug
