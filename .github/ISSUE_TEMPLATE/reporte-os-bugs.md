@@ -1,7 +1,7 @@
 ---
 name: Reporte os bugs!
 about: Me ajude a identificar o bug para que eu possa resolve-lo
-title: Reporte bugs aqui
+title: "[BUG]"
 labels: bug
 assignees: KaFLo0
 
